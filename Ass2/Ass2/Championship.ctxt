@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Championship
+comment0.text=\n\ Write\ a\ description\ of\ class\ Championship\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Championship()
+comment2.params=drivers\ venue
+comment2.target=Championship(ListOfDrivers,\ ListOfVenues)
+comment3.params=
+comment3.target=void\ startGame()
+comment4.params=numberRace
+comment4.target=void\ race(int)
+comment5.params=venueIndex
+comment5.target=void\ racingInEachVenue(int)
+comment6.params=ranking
+comment6.target=int\ calculateTimePenalty(int)
+comment7.params=
+comment7.target=int\ enterNumberOfGame()
+comment8.params=
+comment8.target=void\ setVenues()
+comment9.params=
+comment9.target=void\ setDrivers()
+numComments=10

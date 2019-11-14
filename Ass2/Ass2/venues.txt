@@ -1,0 +1,8 @@
+Albert Park Raceway Australia,3,79,0.05
+Shanghai International Circuit China,4,87,0.08
+Circuit Paul Richard France,2,69,0.14
+Autodromo Nazionale Monza Italy,3,48,0.12
+Circuit de Monaco Monaco,2,90,0.09
+Yas Marina Circuit UAE,3,68,0.01
+Silverstone Circuit UK,4,83,0.2
+Circuit of the Americas USA,5,77,0.1

@@ -1,0 +1,5 @@
+Kamui Kobayashi,1,Overtaking
+Jules Bianchi,2,Cornering
+Sebastian Vettel,3,Cornering
+Daniel Ricciardo,4,Cornering
+Brendon Hartley,5,Braking

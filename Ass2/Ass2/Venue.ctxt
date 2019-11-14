@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Venue
+comment0.text=\n\ Write\ a\ description\ of\ class\ Venue\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Venue()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Venue\n
+comment10.params=chanceOfRain
+comment10.target=void\ setChanceOfRain(double)
+comment2.params=venueName\ noOfLaps\ averageLapTime\ chanceOfRain
+comment2.target=Venue(java.lang.String,\ int,\ int,\ double)
+comment3.params=
+comment3.target=java.lang.String\ getVenueName()
+comment4.params=venueName
+comment4.target=void\ setVenueName(java.lang.String)
+comment5.params=
+comment5.target=int\ getNoOfLaps()
+comment6.params=noOfLaps
+comment6.target=void\ setVoOfLaps(int)
+comment7.params=
+comment7.target=int\ getAverageLapTime()
+comment8.params=averageLapTime
+comment8.target=void\ setAverageLapTime(int)
+comment9.params=
+comment9.target=double\ getChanceOfRain()
+numComments=11

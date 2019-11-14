@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=ListOfVenues
+comment0.text=\n\ Write\ a\ description\ of\ class\ ListOfVenues\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=ListOfVenues()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ ListOfVenues\n
+comment2.params=venues
+comment2.target=ListOfVenues(java.util.ArrayList)
+comment3.params=venuesInfo
+comment3.target=void\ initializeVenue(java.util.ArrayList)
+comment4.params=
+comment4.target=void\ displayVenues()
+comment5.params=
+comment5.target=void\ clearVenues()
+comment6.params=
+comment6.target=java.util.ArrayList\ getVenues()
+comment6.text=\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\n\n\ @param\ \ y\ \ a\ sample\ parameter\ for\ a\ method\n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\n
+comment7.params=venues
+comment7.target=void\ setVenues(java.util.ArrayList)
+numComments=8

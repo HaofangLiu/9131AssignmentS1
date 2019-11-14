@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Input
+comment0.text=\n\ Write\ a\ description\ of\ class\ Input\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Input()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Input\n
+comment2.params=
+comment2.target=void\ pressEnterContinue()
+comment3.params=
+comment3.target=boolean\ continueGame()
+comment4.params=
+comment4.target=int\ enterNumberOfRaces()
+comment4.text=\n\ Accept\ the\ input\ of\ Races\n
+comment5.params=usedVenues
+comment5.target=int\ enterVenue(int[])
+numComments=6

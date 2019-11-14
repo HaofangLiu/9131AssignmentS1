@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=RNG
+comment0.text=\n\ Write\ a\ description\ of\ class\ RNG\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=RNG()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ RNG\n
+comment2.params=minimumValue\ maximumValue
+comment2.target=RNG(int,\ int)
+comment3.params=minimumValue
+comment3.target=void\ setMinimumValue(int)
+comment4.params=maximumValue
+comment4.target=void\ setMaximumValue(int)
+comment5.params=
+comment5.target=int\ getMinimumValue()
+comment6.params=
+comment6.target=int\ getMaximumValue()
+comment7.params=randomNum
+comment7.target=int\ chanceEvent(int)
+comment8.params=
+comment8.target=int\ generateRandom()
+comment9.params=chanceOfRain
+comment9.target=boolean\ calculateRain(int)
+numComments=10

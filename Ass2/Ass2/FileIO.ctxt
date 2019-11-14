@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=FileIO
+comment0.text=\n\ Write\ a\ description\ of\ class\ FileIO\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=FileIO()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ FileIO\n
+comment2.params=fileName\ delimeter
+comment2.target=java.util.ArrayList\ readFile(java.lang.String,\ int)
+comment2.text=\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\n\n\ @param\ \ y\ \ a\ sample\ parameter\ for\ a\ method\n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\n
+comment3.params=newDriverInfo
+comment3.target=void\ writeToFile(java.util.ArrayList)
+numComments=4
